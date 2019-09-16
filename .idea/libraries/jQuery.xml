@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jQuery" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="3.4.0" />
+      <sourceFilesUrls>
+        <item url="file://D:/资源/笔记/html+js+css/Jquery/jquery-3.4.0.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/资源/笔记/html+js+css/Jquery/jquery-3.4.0.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
